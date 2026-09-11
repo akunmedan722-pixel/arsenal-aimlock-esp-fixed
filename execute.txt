@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/akunmedan722-pixel/arsenal-aimlock-esp-fixed/main/loader.lua'))()
